@@ -13,7 +13,7 @@ __A basic music player application has several functions such as:__
 - Save song list
 
 
-![curriculum](https://raw.githubusercontent.com/hoangnqh/Music-App/main/readme-img/1.jpg)
-![curriculum](https://raw.githubusercontent.com/hoangnqh/Music-App/main/readme-img/2.jpg)
-![curriculum](https://raw.githubusercontent.com/hoangnqh/Music-App/main/readme-img/3.jpg)
-![curriculum](https://raw.githubusercontent.com/hoangnqh/Music-App/main/readme-img/4.jpg)
+![curriculum](https://raw.githubusercontent.com/hoangnqh/Music-App/master/readme-img/1.jpg)
+![curriculum](https://raw.githubusercontent.com/hoangnqh/Music-App/master/readme-img/2.jpg)
+![curriculum](https://raw.githubusercontent.com/hoangnqh/Music-App/master/readme-img/3.jpg)
+![curriculum](https://raw.githubusercontent.com/hoangnqh/Music-App/master/readme-img/4.jpg)
